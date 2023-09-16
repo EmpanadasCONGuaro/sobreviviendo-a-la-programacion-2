@@ -24,3 +24,4 @@ sino
 
 fin
 ```
+![image](https://github.com/EmpanadasCONGuaro/sobreviviendo-a-la-programacion-2/assets/142174506/e6cca6c2-a559-42e6-95b3-04bcabbfc16e)
