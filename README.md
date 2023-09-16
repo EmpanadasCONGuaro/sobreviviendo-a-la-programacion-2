@@ -3,7 +3,7 @@
 ```pseudocode
 n: natural
 x: natural
-x: <= n
+x: 2 <= x <= n
 y: natural
 y: <= n
 
@@ -25,3 +25,23 @@ sino
 fin
 ```
 ![image](https://github.com/EmpanadasCONGuaro/sobreviviendo-a-la-programacion-2/assets/142174506/e6cca6c2-a559-42e6-95b3-04bcabbfc16e)
+
+
+```pseudocode
+n: entero
+
+inicio
+inserte n
+  leer n
+
+si n < 0 entonces
+  escribir ("la raiz no esta definida dentro de los numeros reales")
+  fin mientras
+
+si n >= 0 entoces
+si modulo (n^0.5) == x
+   fin mientras
+
+fin
+
+```
